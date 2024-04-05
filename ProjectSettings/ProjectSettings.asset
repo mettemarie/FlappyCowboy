@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: 6314a17aaf0254fe2a81f660580f37eb
+  productGUID: 98e22bd767b4c4358a679add0a8a8f0b
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: FlappyCowboy
+  productName: Flappy CowBoy
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -629,14 +629,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: FlappyCowboy
+  metroPackageName: Flappy CowBoy
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: FlappyCowboy
+  metroApplicationDescription: Flappy CowBoy
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -704,10 +704,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 9b64a8cf-6422-4eaf-a182-99bf76291f61
+  cloudProjectId: 489cee55-3850-47b0-b985-f1ed992852a8
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: FlappyCowboy
+  projectName: Flappy CowBoy
   organizationId: mettemarie
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
